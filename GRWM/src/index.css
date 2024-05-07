@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Libre Caslon Display");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  width: 100%;
+  padding:0;
+  margin: 0;
+  border: 0;
+}
