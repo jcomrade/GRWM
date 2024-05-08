@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily:{
-        LibreCaslonDisplay: ['Libre Caslon Display', 'sans-serif'],
+        custom: ['AbhayaLibre-Semibold'],
+        custom2: ['Quattrocento']
       }
     },
   },
