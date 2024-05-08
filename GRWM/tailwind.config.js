@@ -6,7 +6,7 @@ export default {
   ],
   theme: {
     extend: {
-      fontFamily:{
+      fontFamily: {
         custom: ['AbhayaLibre-Semibold'],
         custom2: ['Quattrocento']
       }
