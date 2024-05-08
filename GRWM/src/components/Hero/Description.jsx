@@ -1,8 +1,13 @@
 function Description() {
 
     return (
+        // Background Image
         <div className="bg-[url('assets/hero.svg')] bg-no-repeat bg-cover w-screen h-screen relative">
+
+            {/* Gradient Overlay */}
             <div className="bg-gradient-to-t from-black to-transparent w-screen h-screen"></div>
+
+            {/* Hero Content Description */}
             <div className="absolute inset-x-0 bottom-0 h-auto px-32">
                 <div className="text-white text-justify tracking-widest">
                     <div className="text-[150px] inline font-custom leading-[2rem]">Bonjour!</div>
