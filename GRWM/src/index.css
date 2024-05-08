@@ -1,4 +1,11 @@
-@import url("https://fonts.googleapis.com/css?family=Libre Caslon Display");
+@font-face {
+  font-family: 'AbhayaLibre-Semibold';
+  src: url('/GRWM/public/AbhayaLibre-SemiBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Quattrocento-Regular';
+  src: url('/GRWM/public/Quattrocento-Regular.ttf') format('truetype');
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
